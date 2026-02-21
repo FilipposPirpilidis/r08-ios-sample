@@ -79,6 +79,24 @@ cd /Users/filippospirpilidis/Projects/halliday-sample/r08-ios-sample/Packages/Sm
 swift build
 ```
 
+## Screenshots
+
+### 1) Scan and Link Target
+
+![Scan and Link Target](docs/images/01-scan-and-link.png)
+
+### 2) Connected and Notify Enabled
+
+![Connected and Notify Enabled](docs/images/02-connected-notify-enabled.png)
+
+### 3) Touch Control Command Logs
+
+![Touch Control Command Logs](docs/images/03-touch-control-command-logs.png)
+
+### 4) Tap Events (Quad Example)
+
+![Tap Events Quad](docs/images/04-tap-events-quad.png)
+
 ## Notes
 
 - Bluetooth usage strings are already configured in `Info.plist`.
