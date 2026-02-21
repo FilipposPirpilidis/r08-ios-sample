@@ -16,7 +16,7 @@ A UIKit iPhone sample app that follows the same MVVM + ViewController pattern us
 
 ![Touch Control Command Logs](docs/images/03-touch-control-command-logs.png)
 
-### 4) Tap Events (Quad Example)
+### 4) Tap Events (Example - single,double,tripple and quad)
 
 ![Tap Events Quad](docs/images/04-tap-events-quad.png)
 
@@ -78,24 +78,6 @@ Contains BLE implementation and coordinator:
 - Swift 5.9+
 - [XcodeGen](https://github.com/yonaskolb/XcodeGen)
 - iOS 16.0+
-
-## Generate and Open
-
-```bash
-cd /Users/filippospirpilidis/Projects/halliday-sample/r08-ios-sample
-xcodegen generate
-open R08IPhoneSample.xcodeproj
-```
-
-## Build (Optional CLI Check)
-
-```bash
-cd /Users/filippospirpilidis/Projects/halliday-sample/r08-ios-sample/Packages/Core
-swift build
-
-cd /Users/filippospirpilidis/Projects/halliday-sample/r08-ios-sample/Packages/SmartRingCommunicationModule
-swift build
-```
 
 ## Notes
 
