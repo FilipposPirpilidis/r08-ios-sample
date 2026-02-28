@@ -1,6 +1,6 @@
 # R08 iOS Sample (Smart Ring)
 
-A UIKit iPhone sample app that follows the same MVVM + ViewController pattern used in your Halliday sample, adapted for Smart Ring BLE.
+A UIKit iPhone sample app that follows MVVM + ViewController pattern sample.
 
 ## Screenshots
 
